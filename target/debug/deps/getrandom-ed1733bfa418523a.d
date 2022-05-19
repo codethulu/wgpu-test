@@ -1,0 +1,12 @@
+/Users/brendan/Documents/tutorial5-textures/target/debug/deps/getrandom-ed1733bfa418523a.rmeta: /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/macos.rs
+
+/Users/brendan/Documents/tutorial5-textures/target/debug/deps/libgetrandom-ed1733bfa418523a.rlib: /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/macos.rs
+
+/Users/brendan/Documents/tutorial5-textures/target/debug/deps/getrandom-ed1733bfa418523a.d: /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/macos.rs
+
+/Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs:
+/Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs:
+/Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs:
+/Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs:
+/Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs:
+/Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/macos.rs:

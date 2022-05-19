@@ -1,0 +1,10 @@
+/Users/brendan/Documents/tutorial5-textures/target/rls/debug/deps/inplace_it-1e93680acf7b2d67.rmeta: /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/lib.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/guards/mod.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/guards/uninitialized_slice_memory_guard.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/guards/slice_memory_guard.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/fixed_array.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/alloc_array.rs
+
+/Users/brendan/Documents/tutorial5-textures/target/rls/debug/deps/inplace_it-1e93680acf7b2d67.d: /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/lib.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/guards/mod.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/guards/uninitialized_slice_memory_guard.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/guards/slice_memory_guard.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/fixed_array.rs /Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/alloc_array.rs
+
+/Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/lib.rs:
+/Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/guards/mod.rs:
+/Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/guards/uninitialized_slice_memory_guard.rs:
+/Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/guards/slice_memory_guard.rs:
+/Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/fixed_array.rs:
+/Users/brendan/.cargo/registry/src/github.com-1ecc6299db9ec823/inplace_it-0.3.3/src/alloc_array.rs:
